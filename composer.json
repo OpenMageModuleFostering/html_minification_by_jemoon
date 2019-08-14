@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/HTML_Minification_by_Jemoon",
+    "type": "magento-module",
+    "license": "BSD-License",
+    "homepage": "",
+    "description": "Simple and light extension which minifies HTML. It reduces document's size by approx. 10 - 15%.",
+    "authors": [
+    {
+        "name": "Marcin J\u0119drzejewski",
+        "email": "marcin.jedrzejewski85@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
