@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Simple and light extension which minifies HTML. It reduces document's size by approx. 10 - 15%.
